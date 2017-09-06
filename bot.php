@@ -1,2 +1,2 @@
 <?php
-appcctvmyd "I am a bot";
+cctv "I am a bot";
